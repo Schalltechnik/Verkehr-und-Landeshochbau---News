@@ -1,23 +1,17 @@
 {
-  "generated": "20. April 2026, 06:10 UTC",
+  "generated": "20. April 2026, 15:17 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Aktuell wurde in der Steiermark der Durchstich für den Tunnel in der Hilmteichstraße erfolgreich vollzogen, womit die Bohrarbeiten beendet sind. Parallel dazu wurde eine Mur-Brücke für eine aufwendige Sanierung auf eine spezielle \"Reparatur-Reise\" geschickt. Diese Projekte unterstreichen die kontinuierlichen Bemühungen zur Modernisierung und Instandhaltung der steirischen Verkehrsinfrastruktur.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "„Durchstich“ in der Hilmteichstraße, die Bohrarbeiten sind beendet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZG9LT193N0xYaWtEaVZwZjVqMkp2YmdFbm1BZHR2djZlYXBsNXBHTElXaE1YVTIwTHJ3Zlh6WDhSR0lvdEZOWVo3WWJTVmJobHZ3TzRfUEpzdkZYbERKSWRnd2tOVmlDdzJsRnVzaWpPeUpyUzBBazVTeVNfVjdmSV94dnZuWVZSWjh4NklhNktZb2VOSkJMdW5BVkg5TkktNkRzTWlCWXU5cjkwWUNmYlBaaTVzb0RtTFE?oc=5",
           "source": "Kleine Zeitung",
           "date": "18. Apr 2026"
-        },
-        {
-          "title": "Spektakulär: Mur-Brücke wurde auf „Reparatur-Reise“ geschickt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckZUN20xUjl2RmlJd3YzdTIwcGxOTkVUemIwZHJ1N3lDSXdPMUs0QVJ4dmk1ak52WHRwa2JQLWhoa0IzUWxfWXYxUDZSbUNvbzRvemxhU2lmZVJNb3BQMzg3TmwyZE1KUkNQYWFRZGtNbURLOENBeHJzNXVWVElMR2hrdkViR21VRy1OaGZvM1JvdkFYdmxfNFVob21oSTZpdzV1Mll6b1ZXU2Rpa1BNb0toRURYaGVualJKOU84aw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Apr 2026"
         },
         {
           "title": "Rekordzahl: Unglaubliche 23.198 Mal blitzte ein Radar 2025 in Liezen - Kleine Zeitung",
@@ -53,16 +47,22 @@
           "date": "16. Apr 2026"
         },
         {
-          "title": "Steiermark und Kärnten werden Testregionen für fahrerlose Busse - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1hfV2RRLWZ2MUpMcTFGSWhTTnRybjJxZ2p6ZlRNcU5US0NwdTQtcGJTdng0eWtzdVhUR2ZJQldXbFMtTUUwYmR5RjhRc09UcXoyMk1yOUhVV2MyOWNwRXIyT0xhUTU4ekdlZ3lRTlFkbTVkQ2pxaUdfOWNxSWtHUWg1dTJOLWJtSl9IZXkxMkpMZFdQMVZ3YWlpTGd6dFM2OXVXd3B5aGc2aGlMb2RYMG1vNF9jNEEwVmdOZVlJNXBtdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Apr 2026"
+          "title": "POW und Bahn zum Berg präsentieren neuen Öffi-Tourenführer für die Steiermark - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVBZN3V0RFFsM09RM3ZyUTlWNXRPOUdzWU03cXRrLUxnOGljSnJxM0FNV3c2MV9QZGRBbzBobVlReEhoSURIdEFpZXFId2szNmJBc01YOEVRZXlrdWdQd01QRU1zRVJDT3RRWFYzaUxxeFcxZFJoaTUtRlZRcHNkMHdHYkJaS1lEOGo1WnhqU1c4WnBpYlFfQ0IzWlB3Sk5oU0F6NWVBUDZIaUxER3pTR2RhRmRnTlVJY0ZMTURqcGJ4WWJwYl9UVGFrUjI4eEhBUmVQMA?oc=5",
+          "source": "OTS.at",
+          "date": "16. Apr 2026"
         },
         {
           "title": "Sechste Ausgabe der Öffi-Tourenführer-Reihe für die Steiermark erschienen - Aviation.Direct",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2hwOUMwcE1Zb3JTRFNMaGk4R2V5N3lNNks3MDNvaVhLYmhyUXNCekVnYWRkYmV5ajZRYWpBeGpkTmpZYnRacVBpT2x1WHNieW1FQWl2V014VW9BcHVEcGpGQnp0SU5Gc1Q5bzR4dVBzWDhfWnVTRFNvSUstZER3ZEFnU2M4YVl3QXhDaHF0YlBYbC1fRnRBQ3ZUbGFTQnZVTnc?oc=5",
           "source": "Aviation.Direct",
           "date": "16. Apr 2026"
+        },
+        {
+          "title": "Steiermark und Kärnten werden Testregionen für fahrerlose Busse - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1hfV2RRLWZ2MUpMcTFGSWhTTnRybjJxZ2p6ZlRNcU5US0NwdTQtcGJTdng0eWtzdVhUR2ZJQldXbFMtTUUwYmR5RjhRc09UcXoyMk1yOUhVV2MyOWNwRXIyT0xhUTU4ekdlZ3lRTlFkbTVkQ2pxaUdfOWNxSWtHUWg1dTJOLWJtSl9IZXkxMkpMZFdQMVZ3YWlpTGd6dFM2OXVXd3B5aGc2aGlMb2RYMG1vNF9jNEEwVmdOZVlJNXBtdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Apr 2026"
         },
         {
           "title": "Warum die Südoststeirer am liebsten motorisiert unterwegs sind - Kleine Zeitung",
@@ -91,12 +91,6 @@
       "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
-          "title": "Zukunft L 211: So wird die Gnaser Straße für 1,5 Millionen Euro modernisiert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzhVU3VnTUw2enNxd3JfYWNNTWJWRnNMX09DWjk2d20yTEpQWkVMeTRpS1dvVng4Mm9tZ3E0Z3ppajhBRDhOOEtZS2ZUZWhQRlFidF93ZzFKaExOXzlfaGgwaUZZS3VCY3pNSGVHUmwwMHR4ejJ2amdqb2YzSkdGNGdHT0FwUl9YYjgxNVdHSUwzLWNHeDFDZVBkcHhpYVhMLVFZTWs1ZDgzNkZMelVJVTg4MVVvWnYySHNLUVd4TGFNNHM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "19. Apr 2026"
-        },
-        {
           "title": "Protest gegen verschobene Schulbau-Projekte - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUZDbTd4Y3RFUEcweTRmQVd6ampPZ0NtenU0aXBKbmt2aG9BQm0zWEs1ME91dVk4bFlqeW1GN1U4dWxqanVTN0hwM2NXYXR1NWxwNjlIcElydWNieDVrRV9pVHRTS3VQVUhJREkyWTUxcmt2SVd3NVUtX3NKTzlWM2NVMmpwNVA5OGxzY0dn?oc=5",
           "source": "ORF ON",
@@ -109,7 +103,7 @@
           "date": "15. Apr 2026"
         },
         {
-          "title": "Kaum mehr Patienten aus der Steiermark in Bad Ischl - ooe.ORF.at",
+          "title": "Kaum weitere Patienten aus der Steiermark in Bad Ischl - ooe.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50MnN6UTMzQVAyRTNwOEo4RHhkY0ZvaktFa1NHcFFodUhkRGNyY2huam1UVmltTlVpbEl1Wml6MGhnNjFHMjN2SlIxcw?oc=5",
           "source": "ooe.ORF.at",
           "date": "20. Apr 2026"
@@ -138,7 +132,7 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Zusammenfassung konnte nicht erstellt werden (Rate Limit).",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "ASFINAG erhält Auftrag zu A9-Ausbau - steiermark.ORF.at",
