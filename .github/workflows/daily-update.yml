@@ -3,7 +3,6 @@ name: A16 News Update
 on:
   schedule:
     - cron: "0 4 * * *"
-    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
