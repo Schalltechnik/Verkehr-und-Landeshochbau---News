@@ -1,11 +1,11 @@
 {
-  "generated": "25. April 2026, 05:45 UTC",
+  "generated": "26. April 2026, 05:40 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der vorliegende Nachrichtentitel \"Südsteiermark Classic - ÖAMTC\" thematisiert eine Veranstaltung und keine Infrastrukturprojekte. Somit lassen sich daraus keine Zusammenfassungen zu Straßenbau, Sanierungen, Tunneln oder Brücken in der Steiermark erstellen.",
+      "summary": "Der vorliegende Nachrichtentitel \"Südsteiermark Classic - ÖAMTC\" beschreibt eine Veranstaltung in der Südsteiermark. Er enthält jedoch keine relevanten Informationen zu Straßenbau, Sanierungen, Tunneln oder Brücken, um eine Zusammenfassung der Infrastrukturprojekte in der Steiermark zu erstellen.",
       "items": [
         {
           "title": "Südsteiermark Classic - ÖAMTC",
@@ -19,7 +19,7 @@
       "label": "Lärmschutz",
       "icon": "🔇",
       "color": "#c8102e",
-      "summary": "Der vorliegende Nachrichtentitel \"Holz-Riegler: Vor 70 Jahren begann die Erfolgsgeschichte\" bietet keine Informationen zu Lärmschutzmaßnahmen, -wänden, -fenstern oder UVP-Verfahren an steirischen Landesstraßen. Eine Zusammenfassung der genannten Lärmschutzthemen ist daher auf Basis dieses Titels nicht möglich.",
+      "summary": "Der vorliegende Nachrichtentitel zur 70-jährigen Geschichte von Holz-Riegler thematisiert keine Lärmschutzmaßnahmen, -wände, -fenster oder UVP-Verfahren an steirischen Landesstraßen. Daher kann aus diesem Titel keine Zusammenfassung zu den angefragten Lärmschutzthemen erstellt werden.",
       "items": [
         {
           "title": "Holz-Riegler: Vor 70 Jahren begann die Erfolgsgeschichte - Kleine Zeitung",
@@ -33,8 +33,14 @@
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "Die ÖVP hat ein Mobilitätskonzept präsentiert, welches zukünftige Verkehrsplanung und Mobilitätsstrategien in der Steiermark beleuchtet. Es legt den Fokus auf die Gestaltung nachhaltiger Mobilität, einschließlich der Förderung von Radwegen und dem Ausbau des öffentlichen Verkehrs.",
+      "summary": "Politische Akteure in der Steiermark widmen sich aktiv der Verkehrsplanung und Mobilitätsstrategien. So legen die NEOS Vorschläge zur Verkehrsentlastung in Graz vor, während die ÖVP ein eigenes Mobilitätskonzept präsentiert.",
       "items": [
+        {
+          "title": "NEOS legen Vorschläge zur Verkehrsentlastung in Graz vor - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDc3bHlZMk5YU2Y5Y25td2h5VHJDMVlMbUJIOGZ5V0stQmlwbjhaYXRaSzVZN3Y1U29rSXMzVE5EMDdvdnpqVEdXWDhKQjVzYjBRc2Z3MHN3aGtwV1Q3bHQtNU8wcG45TjlNM3dLOC0tdWczcVJZZEphekU1TmRxVEN3UWt3UDJfQnhaNU1oNDBjbVpmZF83V3ZDUDRUcFhKVmo5RkgtYnN2RWVvanR1c0NaSTc2NTlG?oc=5",
+          "source": "MSN",
+          "date": "25. Apr 2026"
+        },
         {
           "title": "ÖVP präsentiert Mobilitätskonzept - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0xsWU1oTlpyX0poSUR1U3N2SGpWdTF0VFg3cXROcHM1NkZkRExUckdVQU9zOGRQcC1NamhyWlowelRZM0F6TWpwVHBFeXRNNTF2dVZOQ0ZUc2lwZV9aYkwydUFxR1NxZXM3SW9uWmI3WS1QdHZ2Z1V4eWk5aHpCNGRQNGw?oc=5",
@@ -47,7 +53,7 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark tätigt gezielte Investitionen in seine Bildungsinfrastruktur. So wird die Modernisierung der Chemielabore an der Landesberufsschule Graz 2 vorangetrieben, um zukunftsfähige Ausbildungsstätten zu gewährleisten.",
+      "summary": "Öffentliche Bildungseinrichtungen in der Steiermark dienen als Plattform für die Entwicklung und Präsentation von Schülerprojekten, wie jüngst im Bereich Tierschutz. Parallel dazu geben Entwicklungen im Gesundheitswesen, wie die geringe Verlegung von Patienten aus der Steiermark nach Bad Ischl, indirekt Aufschluss über die Auslastung und Kapazität der regionalen Gesundheitsinfrastruktur.",
       "items": [
         {
           "title": "Kinder-Tierschutzkonferenz: Steirische Schüler präsentieren Projekte für das Wohl der Tiere - MeinBezirk.at",
@@ -60,12 +66,6 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50MnN6UTMzQVAyRTNwOEo4RHhkY0ZvaktFa1NHcFFodUhkRGNyY2huam1UVmltTlVpbEl1Wml6MGhnNjFHMjN2SlIxcw?oc=5",
           "source": "ooe.ORF.at",
           "date": "20. Apr 2026"
-        },
-        {
-          "title": "Investition in die Zukunft: Land Steiermark modernisiert Chemielabore an der Landesberufsschule Graz 2 - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xV2N2dzM2dnFaczRLYllOQWdUeDVlMm1mUWJlYVFHLW9CWjJmdnF2UU03V3hialU3V2RTSnFxNFBDY3dpS2EwaFF0ZTh4ZERzWmNvR0piMTNZRHVLUDJ0M2JaWW9Uck0zN0pVNmh6dHJhR0JTbnYtZw?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "21. Apr 2026"
         }
       ]
     },
@@ -73,7 +73,7 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Aktuelle Meldungen aus dem steirischen Verkehrsbereich zeigen, dass Straßenprojekte wie der B 72-Ausbau in Rosegg im Genehmigungsverfahren voranschreiten und die nächsten Schritte erreichen. Parallel dazu werden jedoch Bedenken hinsichtlich der Planung geäußert, die im Rahmen der verwaltungsrechtlichen Prozesse zu behandeln sind, auch wenn ein positiver Projektabschluss erwartet wird.",
+      "summary": "Der Ausbau der B 72 im steirischen Birkfeld schreitet in seinen Genehmigungsverfahren voran, während bei anderen Sanierungsvorhaben Bedenken gegen die konkrete Planung laut werden, die auf potenzielle Einsprüche und verwaltungsrechtliche Klärungsbedarfe hinweisen.",
       "items": [
         {
           "title": "„Wir stehen hinter Sanierung, aber nicht hinter falscher Planung“ - Kleine Zeitung",
@@ -83,15 +83,9 @@
         },
         {
           "title": "Straßenprojekt Birkfeld: B 72-Ausbau in Rosegg kommt voran, das sind die nächsten Schritte - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXY0OHVzc19qMEI0UWxteEF0bDFLRGFsV3BuN1N3YlNKenpHamtQN0dpLXk0eXRCdmlFSF9ka1o5X0pqYkJpYjBtbDB3X21yUmN0SjllZ0w5aUE2QzV0eVkya04xTFUwV3NNMGtNQTFCc1NFa0c1S0lmLVRYZjFfLVNSd2liSkRUREEySjlIN0tWcXMtLWxsTWtMNGlSUmxMLUNZU3RWS2s0YjhOMEFCN2JkM3FSdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2ttSWF0bE1sYnI3M203V1FQdERlWWNmNGpPeThlQWFCbUdBVUluNm9lNENKVUxFdTNfdjg4WG9yMExUdWxVcEZFMlAyY0NWQ21IZG5YM0xFRVItWGZnLWxzVWJPakh4UXFnVnlQZUZtb3duYlUwYWc4a0NQNi1yRXBKWU55VklMQ0dUZjRnRGZzMlhudVhRbmktcUQxQUxuaG9KRlUxejVHVVZLOUZhZmZ5YlZmREJFUzA5ZmtmWi1MbWN6?oc=5",
           "source": "MeinBezirk.at",
           "date": "23. Apr 2026"
-        },
-        {
-          "title": "„Am Ende werden alle sagen, dieses Straßenprojekt ist wunderbar“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTZSejhqTEFzcnFjby1MaGdjVzIxTEQwZUJtQ01Ec08yVUZJczlINTVUbWsxR0hFeFA0NE9xYjVfTFpiN0FJbXNHeGNnM1FQSU9hb0lRbF9WNlRnM0VBRGhPVE44Mk9xZUhYTlYxTUhfdmNLTzVhNExmQnk3THJ3NmNUNXQwYmlhbXhtSURucXBhQnN3RmszdVlWZnhidWlfSV92VTM2cFhzaDVQb1FSSEE3M3VxdW1vc3c?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Apr 2026"
         }
       ]
     }
