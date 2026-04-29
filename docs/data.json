@@ -1,39 +1,33 @@
 {
-  "generated": "28. April 2026, 06:08 UTC",
+  "generated": "29. April 2026, 05:55 UTC",
   "categories": {
     "strassenbau": {
       "label": "Straßenbau & Sanierung",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "In der Steiermark wird die Tunnelkette Pack auf der A2 einer Generalsanierung unterzogen. Diese Maßnahme stellt eine wesentliche Investition in die Sanierung und Modernisierung der steirischen Verkehrsinfrastruktur dar.",
+      "items": [
+        {
+          "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMy1tOTZqdVA0eV9kS05NdzNseWgzSjgyQnZHUmJfSFB1VGdBMzlzdHhRU3paZnl0VFlkSGNHZTIwSldZTE1LR1Z6ZlhRdXppaXNKRHhHTTR5TjY5OHRoSS1MNEtQOEs1REw1T0diMTdKNGR2bF9kbEdkdFRrdVphZjlrODJsMUM2M0JTNzlEUFc?oc=5",
+          "source": "ÖAMTC",
+          "date": "29. Apr 2026"
+        }
+      ]
     },
     "laermschutz": {
       "label": "Lärmschutz",
       "icon": "🔇",
       "color": "#c8102e",
-      "summary": "Der vorliegende Nachrichtentitel \"Holz-Riegler: Vor 70 Jahren begann die Erfolgsgeschichte\" enthält keine Informationen zu Lärmschutzmaßnahmen, -wänden, -fenstern oder UVP-Verfahren in der Steiermark. Eine Zusammenfassung der angefragten Themen ist daher mit dem gegebenen Input nicht möglich.",
-      "items": [
-        {
-          "title": "Holz-Riegler: Vor 70 Jahren begann die Erfolgsgeschichte - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGV5bDc2bU5OZFJGTkE0M0xQcGhyaWxYSGlWek5KUnFWYzA2T3dsVnVPSzU4UEhDb3JHVnpRUklKckxVSnVCZXcyU2U1Z1IzdGJFSE9WaWUzYkNxNE1ydThyU3ZPNE4yTHRuX1lQWU5kZ0JJdEw3NmgzZG14ZlZNdm96WkJSWWtfZVdjdVhjUldPYW12WTFkUXpIWnF0aVFUNTY0NlEyRDQzV2w4bDViUGRoYkNaalU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "verkehrsplanung": {
       "label": "Verkehrsplanung & Mobilität",
       "icon": "🚦",
       "color": "#003399",
-      "summary": "In der Steiermark, insbesondere in Graz, präsentieren politische Akteure wie NEOS und ÖVP diverse Mobilitätskonzepte und Vorschläge zur Verkehrsentlastung, von Fahrverboten für Durchzugsverkehr auf Nebenstraßen bis hin zu Park+Ride-Lösungen und Garagenringen. Parallel dazu wird das Radfahren aktiv gefördert und die Nutzung von Radwegen, wie dem Raabtal-Radweg, durch Veranstaltungen beworben.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
-        {
-          "title": "NEOS legen Vorschläge zur Verkehrsentlastung in Graz vor - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDc3bHlZMk5YU2Y5Y25td2h5VHJDMVlMbUJIOGZ5V0stQmlwbjhaYXRaSzVZN3Y1U29rSXMzVE5EMDdvdnpqVEdXWDhKQjVzYjBRc2Z3MHN3aGtwV1Q3bHQtNU8wcG45TjlNM3dLOC0tdWczcVJZZEphekU1TmRxVEN3UWt3UDJfQnhaNU1oNDBjbVpmZF83V3ZDUDRUcFhKVmo5RkgtYnN2RWVvanR1c0NaSTc2NTlG?oc=5",
-          "source": "MSN",
-          "date": "25. Apr 2026"
-        },
         {
           "title": "ÖVP präsentiert Mobilitätskonzept - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0xsWU1oTlpyX0poSUR1U3N2SGpWdTF0VFg3cXROcHM1NkZkRExUckdVQU9zOGRQcC1NamhyWlowelRZM0F6TWpwVHBFeXRNNTF2dVZOQ0ZUc2lwZV9aYkwydUFxR1NxZXM3SW9uWmI3WS1QdHZ2Z1V4eWk5aHpCNGRQNGw?oc=5",
@@ -53,16 +47,16 @@
           "date": "28. Apr 2026"
         },
         {
-          "title": "Graz-Wahl: Neos wollen „Fahrverbot für Durchzugsverkehr“ auf Nebenstraßen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlRYTU9nMWFaRkFjYVZCSFlDdWdDd01lcXFMUTRlVG96SXlLNEJkS2FCMTJTSmQ3ZU0zWEhScHJfSzhMbEFDVklxSWF6cWFzZVBqUU9rU1JIeVJma2JCQnc3czZDaXB6czB1YmIyN1B5YUVmZ3FleldfZDJNbEYwSVJ2MThYT0pxSEdaZHlTa2tIa2lLRWJic2hKZm9kRlA3VUYwb2U5MlVKak9HdzZlYXg2eUJ1Qms?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. Apr 2026"
-        },
-        {
-          "title": "Park+Ride: Grazer ÖVP setzt auf einen (Tief-)Garagenring um die Stadt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3d3NDMwWGNRWHE4S09Td2xaOHNIN2pDR0otMlZZLUdzVEEzUGtjTWdMMHpqanZjci1VMkcxeHZOYWNFaW1NWGYwYTcxM3dfWENxekItZU1Zb0YwUTg1TFB6dDNPZUpBbEJfcXdfRHNJZ3ZPOXZWX05Jd2NTNGhSallSQlJYYm0wWDI5SXZGTDhxbmZ3eWYtdWpKYndtUGlRYjJuTlh5Nm1sUzdsU3l3cm95eklHSEU?oc=5",
+          "title": "Grüne fordern, dass Gleichenberger Bahn langfristig abgesichert wird - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTl2YWZMM2VzaXFaVjFISEI4SmZra0czNnNfQ05lS0VKMTEzdGhJTGdVSjM3VVRQZXM1ODFKUGdWdi0wNHFRQUlpSmpwTnRlaUc5WVN5MzB2WHZielFVWFdBZ09QeXpqM3JudUp1ZVV2SG9GdHVEVU1HaC1jajA5dGx3c0c5Y3hWdVFCVTFfUDhIRTNvRTNZbUFCbVBKVFFnU3Fwekc0OVBRYkpIQ1Bha0NPWFdoYmdVNTktREE2UHdiUW1EdkNoSw?oc=5",
           "source": "Kleine Zeitung",
           "date": "24. Apr 2026"
+        },
+        {
+          "title": "Graz-Wahl: Neos wollen „Fahrverbot für Durchzugsverkehr“ auf Nebenstraßen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG8xMGI5ek03Qy1TZDJaUFVCY1hMLW5kd0ZnWnJKcHVMSUxjaG91S1BBREtwcDIwU1AzdlNPb2drMHpKbGM3YWZuMGdyM3Z5cXl4bVpqUGJ2RzZLSWRTN3JISTNFUlllLWJoRTFQWjh0VHVZcDFzUTVOdW5xTHNxYU5kc1RGbktpcVBHYmZ5TXAya2Zwd3NSTlc3Mnh1QkFfbmJpelZCSGc2UERR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. Apr 2026"
         }
       ]
     },
@@ -70,7 +64,7 @@
       "label": "Landeshochbau & Projekte",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert umfassend in ihre Zukunft, indem sie im Bereich der öffentlichen Schulbauten die Bildung durch Initiativen zur Tierschutzförderung bei Schülern stärkt. Gleichzeitig werden im Jahr 2025 Rekordinvestitionen von über 350 Mio. EUR in die Stärkung der Steiermark getätigt, darunter signifikante Mittel für Biomasseforschung an der Montanuniversität sowie umfangreiche Infrastrukturprojekte der Energie Steiermark.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "Tierschutzbildung: Steirische Schüler werden mit neuem Unterrichtsheft zu „Wildtierprofis“ - MeinBezirk.at",
@@ -79,21 +73,15 @@
           "date": "23. Apr 2026"
         },
         {
-          "title": "Kinder-Tierschutzkonferenz: Steirische Schüler präsentieren Projekte für das Wohl der Tiere - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXMtZTRpZG1YNnVMOEVyOWZYNTRwY3VxVnFJaDF4YWlDWmxJYlFsUWNNaDBzLVRjT21oTV9oN3hMZlI2djJWSXVaY1k5bU1FaEtfd2s3blZOdFdmQTZMelRybWZyOEE0c3NIYm03VnMxUGxTbXFwZlk1ODc2U2c2UTh2VUR1VnlzRlV6M1F6TFc3T3Fpelc5dVE3djFnT3hPaVVTUklTYUdmQXRQUHJaUGFVTlRycklTY01mWTNNRQ?oc=5",
+          "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPam9VNjZPWHNOUzVSV1hGRUtIWHJvakVWTTh1aHVRVEJaVG5KbHdrRVVkNmk3b2NOOS1sWnczY3h0Z2tIN2Znd3NoQjVETDVMMmtwU3c1TV9wQk81eFlWNWRpNlJ2X2tPX0pUSk14MVZDSDBMYTYxbGhoMkFka0Zxdi1rLV9XamZHLVBKa0kyVmR6X1k4TFlQOTNPNG1oMUtpZ1kxSGRSS0V6blMta1ZjYmk1d3hKblZiRHVEWml2b21FTHc?oc=5",
           "source": "MeinBezirk.at",
-          "date": "21. Apr 2026"
+          "date": "27. Apr 2026"
         },
         {
           "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPam9VNjZPWHNOUzVSV1hGRUtIWHJvakVWTTh1aHVRVEJaVG5KbHdrRVVkNmk3b2NOOS1sWnczY3h0Z2tIN2Znd3NoQjVETDVMMmtwU3c1TV9wQk81eFlWNWRpNlJ2X2tPX0pUSk14MVZDSDBMYTYxbGhoMkFka0Zxdi1rLV9XamZHLVBKa0kyVmR6X1k4TFlQOTNPNG1oMUtpZ1kxSGRSS0V6blMta1ZjYmk1d3hKblZiRHVEWml2b21FTHc?oc=5",
-          "source": "MeinBezirk.at",
           "date": "27. Apr 2026"
         },
         {
@@ -108,7 +96,7 @@
       "label": "UVP & Rechtliches",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "Der Ausbau der B 72 bei Birkfeld-Rosegg durchläuft erfolgreich die Genehmigungsverfahren und schreitet voran. Gleichzeitig stoßen andere Sanierungsvorhaben auf Widerstand aufgrund von Planungsfehlern, was zu verwaltungsrechtlichen Auseinandersetzungen und Einsprüchen führen kann.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "„Wir stehen hinter Sanierung, aber nicht hinter falscher Planung“ - Kleine Zeitung",
