@@ -1,12 +1,12 @@
 {
-  "generated": "03. May 2026, 06:05 UTC",
+  "generated": "03. May 2026, 06:14 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
-    "strassenbau": {
-      "label": "Straßenbau & Sanierung",
+    "strasseninfrastruktur": {
+      "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Die Steiermark führt derzeit umfangreiche Infrastrukturmaßnahmen durch, darunter eine Generalsanierung der Tunnelkette Pack an der A2 sowie eine fünfmonatige Sanierung der L 112 in Mariazell mit Totalsperren. Diese Großprojekte erfordern erhebliche Verkehrsbeeinträchtigungen und sind Teil der notwendigen Instandhaltung des steirischen Straßennetzes.",
+      "summary": "Die Steiermark führt umfangreiche Sanierungsmaßnahmen an kritischen Infrastrukturen durch, darunter die Generalsanierung der Tunnelkette Pack an der A2 sowie eine fünfmonatige Sanierung der L 112 in Mariazell. Diese Arbeiten erfordern teilweise Totalsperrungen und werden mehrere Monate in Anspruch nehmen.",
       "items": [
         {
           "title": "A2: Generalsanierung der Tunnelkette Pack - ÖAMTC",
@@ -28,18 +28,67 @@
         }
       ]
     },
-    "laermschutz": {
-      "label": "Lärmschutz",
-      "icon": "🔇",
+    "oeffentlicher_verkehr": {
+      "label": "Öffentlicher Verkehr",
+      "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Westbahn wird ab Mai 2026 als neuer Partner in den Verkehrsverbund Steiermark integriert und ermöglicht damit die Nutzung von Verbundtickets wie dem Klimaticket auf ihren Strecken. Parallel dazu arbeitet die Steiermark an ihrer ÖV-Strategie, wobei der Masterplan 2040 für Graz eine 30-prozentige Steigerung der Fahrgastzahlen anstrebt, während Sammeltaxis und die Thermenbahn weiterhin Diskussionspunkte bleiben.",
+      "items": [
+        {
+          "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVhjRFEwWTVDTXQ1Yk91ZVlkYXBCSUxad29uOTlkYWpGdm9mRzRZZGJHX0ZJdnlvaFBXektJc18yR1lQcUkzamktNFJqb0oxZGhmMDZ4YTZGUXhZeUNfWHVZMTBub2dkRFVadUw0UXIyaFgwemQ5LXZ0Sy1ZQ3hKZVlGZzRHcF82aG8wYVV5aTB3TklEb3g1cFFEUmlkamN6YkRsQjdwWWpnNG1KQkVYdUFwMG4yTnZOMUxKenRJOTIyQQ?oc=5",
+          "source": "Verbund Linie",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Steirischer Mikro-ÖV - Sammeltaxis trotz hoher Nachfrage oft zu teuer - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "30. Apr 2026"
+        },
+        {
+          "title": "Masterplan ÖV 2040: Grazer Öffis sollen 30 Prozent mehr Gäste schaffen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUxPV0NWZGZRQ0dtTnBLanhwbDEteEd2bWFNYl80T1V1NjlhSTVYLUR1SkdOSDFvT0N5eFQzLXZEOXpZY3k3LXMxNnJOaEpnYmJzVFdpOVRhekNHU083RFZCTmdMQTZGendfbFV6TjlmbGdtUDFkVFR6RzFwM0JBRE9FQnFZWkRqT1BQVnVLTGRhTjFVZVAxbzBWNktPVDlYMkhkNlgtUGR5RW9u?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Apr 2026"
+        },
+        {
+          "title": "Tickets gültig: Westbahn ist neuer Partner im Verkehrsverbund Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWhsWkNQUUllUEJBTjdiak5TcVhXX2t4SjI5Rl9uNHI0ZjdmX1Bpb3NNT041ZG9ncXVYYWNhOE1kMWo1NVJVZzZ3eVo2RVNMN3JZODBHOGtJQ0c1dmI4c2E5eTR2SnRtRDFPZTJzSTRMNVJJLW1oUHRPUV8xdDFyN0dHeTFlZ1NsZURkV0ctNFhPU1B5SXlyUElhRmItR01rdHlORzM3Y0ljWUs3MFZEN2xsWXYySlF3c3E2dHMwekE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. May 2026"
+        },
+        {
+          "title": "Westbahn ist Teil der Verbund Linie Steiermark - inside-graz.at",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0p3TElsOWRESlRxS2FzV0Zpb3pQa05sdjVmaXZfcE8tR0V2ZWxwbmxyRDZlZlQzZGFnLUp1N1lyT2NicHhGNWtaU0N2cmkzeHFoa3JNZ3M5eERNUWJwWHdwcmVDeFpmY2lXMFE0NHFROE5ZNXJZbkRFeXJySEhETkdnMXNCSEVCT1BWd0NB?oc=5",
+          "source": "inside-graz.at",
+          "date": "1. May 2026"
+        },
+        {
+          "title": "Auf Teilstrecken: Das Klimaticket Steiermark gilt ab Freitag auch für die Westbahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3pvTVBaSnZicG9Ic3c2N2dKZUJiZVBpVmYyLUdWZ0d1VUQ3ZDVKblVIT0xRVW0wVzNVNWo2bXhKWFpRLVVqVmYyNXNFb3ZSWFdTYklLZWdVQmJmbGZEV19KOTM4Y3hzd3hFSUFOLVBiWmMxRVF5STlJOS0tUDg4cm45N2ZVTUM5U09pSnlWejFmcmh3cmJsTW1BaWZZdlFRTUpoLW1GZ2cxMExSb043Qw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Apr 2026"
+        },
+        {
+          "title": "Diskussion über Zukunft der Thermenbahn - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81dG1EZEpHc1FNUXZSbk50VThlNTJyRmt2WG9DTzhQUlVGMFlCNFd0aHFRR2thVDVaanRBZHoxTkE1b1doajdhOHdMSHVYeXNvYXNQTg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "28. Apr 2026"
+        },
+        {
+          "title": "Klimaticket wird teurer: Preisbremse im Landtag abgelehnt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWJCNjV4dGpsN3k4WkpoS2hMYXJqMW9uVkpKc2Ewb2tqY1JaQkpaMlpTVkdSeXhJVC0zZnJYeWRnQnU2ZG5oNzJyRDdIcXFDaEFpRXFvM2JxTGxOR1hJcHNGZjFJdHBhcW85MW5ZX3NVTFp2LW9ORjlkUndlUGJaNTJnSlZ3WXBDUHhDRFVtX1JIcjJ4N3JnZ0E4SC1qNGcyRVJfdA?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Apr 2026"
+        }
+      ]
     },
-    "verkehrsplanung": {
-      "label": "Verkehrsplanung & Mobilität",
-      "icon": "🚦",
+    "mobilitaet": {
+      "label": "Mobilität & Verkehrssicherheit",
+      "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark investiert verstärkt in Radverkehrsinfrastruktur wie den Raabtal-Radweg und erweitert ihr öffentliches Verkehrsnetz durch die Integration der Westbahn als neuer Verbundpartner ab Mai 2026. Gleichzeitig zeigen sich Herausforderungen bei der Finanzierbarkeit von Mikro-ÖV-Lösungen und bei der Verkehrsberuhigung in städtischen Bereichen, wie Diskussionen um Durchfahrtsbeschränkungen in Graz verdeutlichen.",
+      "summary": "In der Steiermark werden Radwege wie das Raabtal-Radweg-Netzwerk als attraktive Mobilitätsalternative ausgebaut und durch Veranstaltungen wie Anradel-Aktionen gefördert. Gleichzeitig setzen Städte durch die Schaffung von Fußgängerbereichen und den Schutz von Bahnverbindungen auf eine nachhaltige Verkehrsplanung, die den Fuß- und Schienenverkehr priorisiert und problematische Verkehrsmittel wie E-Scooter reguliert.",
       "items": [
         {
           "title": "Frühlingserwachen auf zwei Rädern: Anradeln am Raabtal-Radweg - MeinBezirk.at",
@@ -54,65 +103,35 @@
           "date": "27. Apr 2026"
         },
         {
-          "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVhjRFEwWTVDTXQ1Yk91ZVlkYXBCSUxad29uOTlkYWpGdm9mRzRZZGJHX0ZJdnlvaFBXektJc18yR1lQcUkzamktNFJqb0oxZGhmMDZ4YTZGUXhZeUNfWHVZMTBub2dkRFVadUw0UXIyaFgwemQ5LXZ0Sy1ZQ3hKZVlGZzRHcF82aG8wYVV5aTB3TklEb3g1cFFEUmlkamN6YkRsQjdwWWpnNG1KQkVYdUFwMG4yTnZOMUxKenRJOTIyQQ?oc=5",
-          "source": "Verbund Linie",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Steirischer Mikro-ÖV - Sammeltaxis trotz hoher Nachfrage oft zu teuer - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Graz-Wahl: Neos wollen „Fahrverbot für Durchzugsverkehr“ auf Nebenstraßen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG8xMGI5ek03Qy1TZDJaUFVCY1hMLW5kd0ZnWnJKcHVMSUxjaG91S1BBREtwcDIwU1AzdlNPb2drMHpKbGM3YWZuMGdyM3Z5cXl4bVpqUGJ2RzZLSWRTN3JISTNFUlllLWJoRTFQWjh0VHVZcDFzUTVOdW5xTHNxYU5kc1RGbktpcVBHYmZ5TXAya2Zwd3NSTlc3Mnh1QkFfbmJpelZCSGc2UERR?oc=5",
+          "title": "Steirische Stadt schafft Fußgängerbereich, um E-Scooter zu verbannen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlFrN2p5OE5SOU9RVFc5T3BzR09yc2VhNkpfdHNHcVJQZlpqam96NmhIckUzWmZScXU0NWZPMERkQnpHWWFReWp0dGxwWm10SHk4WTZRaUNWaGlIV2p6QU9ScDVZTUExY3BOeHRhVm5QUGtRRWJHYTBKSjRxRm9NNF8tcWNjUjVONUlsVDYtbUNmS3lNck9SYmJ4UjhVQkFhSmNpOXV6Wks5YUgtVG1RT2diNHVXZw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "26. Apr 2026"
+          "date": "28. Apr 2026"
+        },
+        {
+          "title": "Droht Thermenbahn das Aus? Sorge um wichtige Bahnverbindung - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1N4ZWQxTnNqd1M1RVVjQ211RmtUVmJiMUF3ZjROUVJLTExvMjd6ZEU2NHVISU15YTl1WjVaeUZFNmlqZXpnZWFJYWdRQVM4cXc4dE51ckt6cHliMnBRSkFPQ1VlaExrMjRmeHZubjNtNFdscUJTUmJOOHZzNlFBM1RKVzZkZW1ZNm5MbTdhY19iZWhmdFFwTFFhSzBDWlhwY0p1RGxWTQ?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Apr 2026"
         }
       ]
     },
     "landeshochbau": {
-      "label": "Landeshochbau & Projekte",
+      "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert 2025 mit über 350 Millionen Euro in Rekordmaße in ihre Infrastruktur, wobei Energie Steiermark mit massiven Investitionen vorangeht und ab Juni Tarifsenkungen ermöglicht. Parallel werden Forschungseinrichtungen wie die Montanuniversität in Zukunftstechnologien wie Biomasseforschung gefördert und Naturschutzprojekte sowie strategische Sicherheitsinfrastrukturen gestärkt.",
+      "summary": "Die Parktherme Bad Radkersburg investiert Millionen in die Modernisierung ihrer gastronomischen Einrichtungen und plant eine umfassende Neuausrichtung für 2026. Dieses Projekt unterstreicht die anhaltende Bedeutung von Thermalbädern als wichtige Infrastruktur und Wirtschaftsfaktoren in der steirischen Tourismuslandschaft.",
       "items": [
         {
-          "title": "Naturparke Steiermark: Starke Unterstützung für gelebten Naturschutz - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oNzZ2c0gwMDNfclhkb1JXdHNlS0VSNUVMSkJpLThyc0J4bmsyN0FyTXVwRTFsZUxYWGJ1NTRvUXNrZDVtcTk3R3VvOC1OVzZYX3FVQ1JJaXF1MHJtemtkVkl1V3NSOWtXVS1UcXlB?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Tarifsenkung ab Juni kommt: Energie Steiermark verzeichnete 2025 Rekord-Investition - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZjekktWGZwNUFWQmlfaVBiam5mN3U5Z2Qtd3QtenB5VkZOT09vSF9BQ1Z3dmsyeG9HZnVYQWo2RS1kLVFveE14dXlKU3d5VGg3WGhMTnhnUnFGbU94RENVZzAzM29tNGJ5aEoybnlaQWJfNnIxRjVpUmNyQTg2aFlCNVpxQThuNzhwNDUySzhvZ3lkdHkyYXRfX2JVd0pjOUR3SkpDTWpwdWxLQmphVXRkQkQ?oc=5",
+          "title": "Millionen-Investition: Parktherme Bad Radkersburg erfindet 2026 ihre Gastronomie neu - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDA2OHV5c2ZaSHZBa3dqWV9zczU4S2dxbFN2NVlxMzkxd3BQWjBaZTg2SWpFTmNPT0prcjcwTmRsZEpjeTNYbm1XVmdQQTN2MDViVkE3dmUxVTIxODBDLV85dldIaHBselVGdV9zVWpmN25waE9GejlTTHg2UWZidDlNaVhTdFYyQmQ2V2RXYUFWRXNMQWxDV2c3MzdEMmhIbEVzcWo4NDdtSHdBR3prS1dLbVZpZ2JXNHNzSmNNM2owekVYeFE?oc=5",
           "source": "MeinBezirk.at",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "Investment stärkt „Lagebild.one“ in der Steiermark - Militär Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sVGhraWRCNXlFV242MDlSX0RUa3RRcGluMmlaempnS2I4aDNtY09PWW5mNkJYX2RZVG5EN3ZHZ2JQbF9vNnVyN2s1MVJyQ2JkS2RXcWNMa1VHV1cwSVhEVG1JdG43RFZrQ1BaNERhNmNIWG91OWVwRVhpbG5TZw?oc=5",
-          "source": "Militär Aktuell",
-          "date": "1. May 2026"
-        },
-        {
-          "title": "Investition in Biomasseforschung: Montanuni geht voran - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FM3lLaUkwa19JS1lIN2RhS3FTRWw3cklvNlB6dkFUaVRGM2lHMmZ0ZGZraXJDaHVuYkhvOGFDYTFvWTRueEFlQUlpTWVoOHpNR0ZXbg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Apr 2026"
-        },
-        {
-          "title": "2025 bringt neuen Rekord bei Investitionen: Über 350 Mio. EUR für Stärkung der Steiermark - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVNmVkdkZ0VfLXRLZjdodU5lb0pQeUV3SzY3aVhPVkNValpoWWhSVzdSVFpQaXBsaDFodExnUlFSaE1xSmVfT3dxLXZHQXl4a2dFYkVZc2hZdFh6bmVDNkhVMnBKOUlCOVpKUWRXQzhQRFJBVXNCV1o1WnhmUnJLRnFTRkI0dkh5LTJTYjRNQUxnelFFSkNfSDNrN0Fqa2l2b3BsYzJ3ZmQ0dEdlbnc5V0ZTcWM2QVFBMV9ZYkF2TFpSQnItQjBGZnNWNm9iNGNZY3JrMVVEdS1LbHUxOVVOLQ?oc=5",
-          "source": "OTS.at",
-          "date": "27. Apr 2026"
+          "date": "29. Apr 2026"
         }
       ]
     },
-    "uvp_recht": {
-      "label": "UVP & Rechtliches",
+    "behoerde_uvp": {
+      "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
       "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
