@@ -1,30 +1,30 @@
 {
-  "generated": "06. May 2026, 05:45 UTC",
+  "generated": "07. May 2026, 05:49 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark laufen derzeit mehrere bedeutende Straßensanierungsprojekte, darunter die Sanierung einer 200 Meter langen Brücke am Präbichl an der B 115 und eine fünfmonatige Totalsperrung der L 112 in Mariazell. Trotz dieser Infrastrukturmaßnahmen bleiben Ablenkung und Unachtsamkeit die Hauptursachen für Verkehrsunfälle im Land.",
+      "summary": "An der B 115 am Präbichl wird eine 200 Meter lange Brücke saniert, während im Semmering-Tunnel zwei Arbeiter bei einem Unfall verletzt wurden und ein Hubschrauber zum Einsatz kam. Die Unfallstatistiken zeigen, dass Ablenkung und Unachtsamkeit weiterhin die Hauptursachen für Verkehrsunfälle darstellen.",
       "items": [
         {
           "title": "B 115: Am Präbichl wird 200 Meter lange Brücke saniert - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUMXFVTXFiNWtJcUl3Z05OeEpqeGxsTWs5UEQtMG01QmZsNEtZcVRNR0tiRjJLUUttZ1QyZkllUGExWnp6djVWcDlrYm1KNUNDQ2xUQmM5REMwZzI2Y1NqWjhqcWdLTUxvUVJTUTBocw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41UVdYQ2pCZDdLSkpjbmZPQjNOTkdTMTIwbE4wWXllc0VCMTR1Nk9NTGpxTFo3RGp1UnM1Z0JKYkVDUzltemJVTUR4NXY5WUtUS3Y3TzV0TWFhX3ptdGNDU2x2S3p3dWxwcDJGYUJBSQ?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "4. May 2026"
         },
         {
-          "title": "L 112: In Mariazell startet fünfmonatige Sanierung - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVzBLOThIczBmR3k4VV9qalVxV3BmeXlGUmNpbmdJRS0xR1FyWTFMSFo5aVJOUlZYY3RIelBHbkRJZFJ0VzBpc01vLXRFWXZhREFPcmEtcFpYZVpUbHI0WnphU0t6dUtieWdzMHcyOA?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "29. Apr 2026"
+          "title": "Arbeiter mit Beinen in Förderlift eingeklemmt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jNDUwUVVaZ0FKWi1QVy1WX3FEMUZTQjlackI2WGdqTjY4VlJyYWVBcTJNdEtRSFZxa0lvaEl4akI4emtLMmg4R2VvY2xPeVF2Mmk5cg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. May 2026"
         },
         {
-          "title": "Mit Totalsperren: Monatelange Straßensanierung in Mariazell startet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkZ4Y0cwbVBmQkk0Yk45ZVd5MlR0ZkFGUm5XazZXRjNGLWg2bV9yZ0xwdDg4NWYyNUdHYkt3YUZNb1dMRTJPM2kzTFhHeEhxRXdJUTVMRGI4VmI4dnJQQ0NOMXB4bnY5VWUwejdULXh3Z2sxRVhubEIxZUwyc1ZEMHdHWW9rbmtSRUVGZlFDR05XZndFUmNLUGg3MnFWVjBFMUxMeDhSNzZvYXhJUlVnOTFyWQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Apr 2026"
+          "title": "Zwei Arbeiter im Semmering-Tunnel verletzt: Hubschrauber im Einsatz - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3B6ZlNDWW5SOHRycFNLM2d4NTZIRE9ReUEzdXhWdkt1WEdvVFVBdkhMLW9Ud2xKQWJ4RDhHZzBEWTdPV1p4UmYxWUFETDEzT081ZEE3eFJiZENzUnlJdU1OLTlzcXpVSEZscURCTXRQdVRudWRmNkFySkpSRG1aZnAtblBtT29FT0Z2WnJwd21RYWVmWXBCYjU2SDNlMmJzWXNxRTB2ak9CM29NektlYXFR?oc=5",
+          "source": "5 Minuten",
+          "date": "6. May 2026"
         },
         {
           "title": "Ablenkung und Unachtsamkeit sind nach wie vor Unfallursache Nummer 1 - Land Steiermark News Portal",
@@ -38,25 +38,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Ab Mai 2026 wird die Westbahn als neuer Partner in den Verkehrsverbund Steiermark integriert, wodurch Fahrgäste vermehrt mit einheitlichen Tickets wie dem Klimaticket reisen können. Gleichzeitig zeigen sich Herausforderungen im steirischen Öffentlichen Verkehr, da Sammeltaxis trotz hoher Nachfrage oft zu teuer sind und Zugausfälle auf einzelnen Strecken wie der GKB-Linie Fahrgäste verärgern.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sein Angebot durch neue Partner wie die Westbahn und bietet attraktive Tickets wie das Kultur-Ticket für kostenlose Fahrten an. Allerdings treten auf einzelnen Strecken wie der GKB-Linie Zugausfälle und Betriebsprobleme auf, die Fahrgäste verärgern.",
       "items": [
         {
-          "title": "Ab 1. Mai 2026: Die Westbahn wird steirischer Verbundpartner - Verbund Linie",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVhjRFEwWTVDTXQ1Yk91ZVlkYXBCSUxad29uOTlkYWpGdm9mRzRZZGJHX0ZJdnlvaFBXektJc18yR1lQcUkzamktNFJqb0oxZGhmMDZ4YTZGUXhZeUNfWHVZMTBub2dkRFVadUw0UXIyaFgwemQ5LXZ0Sy1ZQ3hKZVlGZzRHcF82aG8wYVV5aTB3TklEb3g1cFFEUmlkamN6YkRsQjdwWWpnNG1KQkVYdUFwMG4yTnZOMUxKenRJOTIyQQ?oc=5",
-          "source": "Verbund Linie",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Steirischer Mikro-ÖV - Sammeltaxis trotz hoher Nachfrage oft zu teuer - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PbHBEUmVKY2hra2FBRzNVRVE2TmxEM0VFSGw0a0ExZlBVSkRhc1E2NkNuUnZqbkE5WlVxNXdRMWZvUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Tickets gültig: Westbahn ist neuer Partner im Verkehrsverbund Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlhISWNPTTdUVUpHRWVxQmxMRXFrOWtLQWFmOXdxN1RMaUtOdHhFREJyaUs4SFpQS2IxRjllMWt3YlY5QlczNG9JM2xJamxvSV92VVFVV3Fzel9BTWp1Z01YOVFRc0ZiVGhjZjY4WXZhQ0NYSk9iRjhGWlZJeHJGVFp1cnNtU0JGV1BmSWhvb3NtUGRjTWNaNUdPRXVfYnhjU0lHWXlLZFN1d2F6NDdNNmd3?oc=5",
+          "title": "Verkehrsverbund-Service: Mit deinem Kultur-Ticket gratis durch die Steiermark fahren - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmlGRlZwd2F4Z3lCNTNidWEyUXRqQjAxUllCZ25wMEo3aFFwcXUyaXlMUEs4X0YzX0xaeGJpX2RjNnJkS0NOckdkVXYwSE9hQUo1cFA3QUoyanRFaFZmWHNiTDVhcHZ3ODF3OGR5RF9nNFRBZVVqMnRBWGxZWTJZVmFkeFlsOHhCSEtFRzZjdjVteWhIRVlCUFl6QkZXemM4bFRVYkwxNlFIZmlkeEY1ZG5iQQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "1. May 2026"
+          "date": "6. May 2026"
         },
         {
           "title": "Westbahn ist Teil der Verbund Linie Steiermark - inside-graz.at",
@@ -65,16 +53,16 @@
           "date": "1. May 2026"
         },
         {
-          "title": "Auf Teilstrecken: Das Klimaticket Steiermark gilt ab Freitag auch für die Westbahn - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3pvTVBaSnZicG9Ic3c2N2dKZUJiZVBpVmYyLUdWZ0d1VUQ3ZDVKblVIT0xRVW0wVzNVNWo2bXhKWFpRLVVqVmYyNXNFb3ZSWFdTYklLZWdVQmJmbGZEV19KOTM4Y3hzd3hFSUFOLVBiWmMxRVF5STlJOS0tUDg4cm45N2ZVTUM5U09pSnlWejFmcmh3cmJsTW1BaWZZdlFRTUpoLW1GZ2cxMExSb043Qw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Apr 2026"
-        },
-        {
           "title": "Zugausfälle und Chaos: Probleme auf GKB-Strecke verärgern Fahrgäste - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1RPb1ZzSzVzWW90QWtKYVJwQVozVENkN09zSFpfS0gtdVFuT0Q0RnpfVElHTnRFNVFTb1ZhaW5GUmhLS2tHbmZBSTBHZUozMUIxRFlwaDY5UTJxNl9pVUNLLUl1RWU0YWh1czFHaVBicHl2ZFQtLWYtV09fdVBhaUpzOFRQNFhUcnh6bXZuSWdOc3NoX1hIanhRbHV0MzNLRFFQSUtmZkE1QUNiNU4tM25RU09vUQ?oc=5",
           "source": "5 Minuten",
           "date": "4. May 2026"
+        },
+        {
+          "title": "Tickets gültig: Westbahn ist neuer Partner im Verkehrsverbund Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlhISWNPTTdUVUpHRWVxQmxMRXFrOWtLQWFmOXdxN1RMaUtOdHhFREJyaUs4SFpQS2IxRjllMWt3YlY5QlczNG9JM2xJamxvSV92VVFVV3Fzel9BTWp1Z01YOVFRc0ZiVGhjZjY4WXZhQ0NYSk9iRjhGWlZJeHJGVFp1cnNtU0JGV1BmSWhvb3NtUGRjTWNaNUdPRXVfYnhjU0lHWXlLZFN1d2F6NDdNNmd3?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. May 2026"
         }
       ]
     },
@@ -82,7 +70,7 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch Radoffensiven und Schulungsprogramme für neue Verkehrsmittel wie E-Scooter, wobei jedoch Koordinationsprobleme zwischen Graz und dem Land entstehen. Gleichzeitig bleiben Ablenkung und mangelnde Aufmerksamkeit die Hauptursachen für steigende Unfallzahlen, insbesondere bei Elektro-Zweirädern, weshalb verstärkte Verkehrssicherheitsmaßnahmen notwendig sind.",
+      "summary": "Die Steiermark intensiviert ihre Bemühungen um nachhaltige Mobilität durch koordinierte Radoffensiven und Verkehrssicherheitsprogramme, wobei besonders Radwege wie der Raabtal-Radweg R11 als beliebte Infrastruktur ausgebaut werden. Gleichzeitig steigt die Unfallrate bei Elektro-Zweirädern deutlich an, weshalb kostenlose Schulungen und verstärkte Aufklärung gegen Ablenkung und Unachtsamkeit im Straßenverkehr notwendig sind.",
       "items": [
         {
           "title": "Graz und Steiermark kommen sich bei Radoffensive zunehmend in die Quere - Kleine Zeitung",
@@ -126,15 +114,8 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die Gemeinde Gamlitz wird als steirischer Vorreiter für vorbildliche Baukultur anerkannt und zählt zu den besten sieben Gemeinden Österreichs in diesem Bereich. Die Auszeichnung unterstreicht das Engagement der südsteirischen Gemeinde für qualitätsvolle Architektur und nachhaltige Siedlungsentwicklung.",
-      "items": [
-        {
-          "title": "Steirischer Vorreiter: Gamlitz unter den besten sieben Gemeinden Österreichs für Baukultur - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2ZVb1hJaVJVZklZXzNWb0l1X2ZLOW9IaXFod0Y0RF9yYzlYSTAyeDY5N2tsRWJGV2ExM0NaWVR6eUllVFB4YzFhRDU0ejRsM0tDc3B5ZW0tdi1WTE5qLXVSYTktNnNIMGZJQjhDQm1BNnZMRHFkSzNfQS02WEIyV0ZpZ3VPOFNSSHY2T25IQ1dad3ZvR2h3ZjllbUZOU3NOOGp4Y1hCWHFxNlNNbU1ySWhCbk96RHBDM2dQbW9kY3E?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Apr 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "behoerde_uvp": {
       "label": "Verkehrsbehörde & UVP",
