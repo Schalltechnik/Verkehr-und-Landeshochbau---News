@@ -1,12 +1,12 @@
 {
-  "generated": "13. May 2026, 06:13 UTC",
+  "generated": "14. May 2026, 06:12 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "In der Steiermark ereigneten sich mehrere Zwischenfälle in Tunneln, darunter ein Fahrzeugbrand und ein Unfall beim Semmering-Basistunnel mit eingeklemmten Personen. Parallel dazu wurden wichtige Infrastrukturprojekte wie die sanierte Schloßbergbahnbrücke in Graz und die neu eröffnete Sulmbrücke in Wagna fertiggestellt.",
+      "summary": "In der Steiermark ereignete sich ein Fahrzeugbrand in einem Tunnel, während gleichzeitig wichtige Infrastrukturprojekte wie die Sanierung der historischen Schloßbergbahnbrücke in Graz und die Eröffnung der neuen Sulmbrücke in Wagna erfolgreich abgeschlossen wurden. Diese Vorfälle und Maßnahmen unterstreichen sowohl die Herausforderungen im Tunnelbetrieb als auch die laufenden Investitionen in die Erneuerung und den Ausbau der steirischen Straßeninfrastruktur.",
       "items": [
         {
           "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
@@ -19,12 +19,6 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWWVRENmVBZEJWTnRTQ0dZR09yYl9LVTJQR0cwcEhhRGN5eUQ1RGpJMWNxSm9zRjA1OHFRQVVITVRBUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "12. May 2026"
-        },
-        {
-          "title": "Unfall bei Semmering-Basistunnel: Zwei Personen von Lift eingeklemmt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3hFZmlUMGRad1diUnFsT1NZSUh3OVppb0V1cjEweDdxdllOU0lWakk4TVhpeUtDeGJMVVFRU2FXVEh2VHZteFlQZVFCZkxGaVcwRWR0cnFRdmRkbndfVlV6NEl4UE16MnY3YVVfRmd2WThsd2hTRXFkX1dGRzE0d2wxeWlsOUlUOWV4em1oNE5XVXMwZDdxZUxlSW5ja3RiVXNjYmlpR1JQQUtQejRabnB6UQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. May 2026"
         },
         {
           "title": "Sanierung: Historische Schloßbergbahnbrücke ist wieder begehbar - Kleine Zeitung",
@@ -56,14 +50,8 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sich strategisch durch die Westbahn als neuen Partner und trägt damit zur Verbesserung des regionalen Nahverkehrsangebots bei. Das Aichfeldbus-Pionierprojekt demonstriert, wie innovative Buskonzepte ganze Regionen im öffentlichen Verkehr transformieren können, während gleichzeitig Verkehrssicherheit durch entsprechende Kampagnen in den Fokus rückt.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner und stärkt damit das öffentliche Verkehrsangebot in der Region. Parallel dazu setzt Graz mit einer neuen Verkehrssicherheitskampagne Schwerpunkte auf die Sicherheit im städtischen Verkehr.",
       "items": [
-        {
-          "title": "Pionierprojekt: Aichfeldbus veränderte den öffentlichen Verkehr einer ganzen Region - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTZmbWRIRUJVc3lQN0NGZVYtYVhkNGY2ZmdMVm1JR0o2bHYwZnhYQ1c2dFpLYzRsaDdsTW9BWmc4Q2lPaHUyQVFPcms0bXV2R2ZPRXhtMlU1MHgtT1RZeEVwcUV4YXV6LXh6SEU0X0VDaTZuZXkwWmliaXBRVWFXOUZ4cTFzazBMZ3hlUGljaWlZOHQyWTBuU1RiN0RXSnRsYlBlTDd0V3hybXBUSmwwYTMwUUF3UQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. May 2026"
-        },
         {
           "title": "Neue Verkehrssicherheitskampagne in Graz - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RHctdVZ3dE5LT0tjQlBSODl2NUVjdktqYkFXOHd6aC1HWkZhczBMNFdaMENJVWZZM19ERzRBR1AxaTcyUnRjSVpqNmRGcjZsS0o4dA?oc=5",
@@ -82,21 +70,14 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet eine steigende Nachfrage nach personalisierten Wunschkennzeichen, was auf eine weiterhin hohe Motorisierung hindeutet. Dies unterstreicht die Notwendigkeit, parallel zur Verkehrssicherheit auch verstärkt in nachhaltige Mobilitätsalternativen wie Rad- und Fußverkehr zu investieren, um die Verkehrsbelastung langfristig zu reduzieren.",
-      "items": [
-        {
-          "title": "Um 20 Prozent mehr steirische Wunschkennzeichen in einem Jahr - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkNlUE42aERPa2tncGVUWG92SnJLWHI2dmZDTHBKMndjSDJ6SEpkTVYxOWY3Wm1rbzZ4TlZkTTBGUnZRLWpvV2QyWmhEenRIbGlVTkhNR2RyOVFwc0pQbWp6N3U0cXUtVnAwN2tRV09ST1pFVjZ6ZmJIUVhRQkoyVU5YSm5HXzRlZ3AyVXg4TXIyV3MwQ3UwRC1NMTFaUElGWEhWdmk5QjZzbk0ybmd3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "landeshochbau": {
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Die neue Sulmbrücke in Aflenz bei Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturverbesserung für die Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für moderne und sichere Verkehrsverbindungen in der Steiermark.",
+      "summary": "Die Sulmbrücke Aflenz in Wagna wurde feierlich eröffnet und stellt eine wichtige Infrastrukturmaßnahme für die Region dar. Das Projekt unterstreicht das Engagement des Landes Steiermark für die Verbesserung der Verkehrsanbindung und Baukultur in der Steiermark.",
       "items": [
         {
           "title": "„Sulmbrücke Aflenz“ in Wagna feierlich eröffnet - Kommunikation - Land Steiermark",
