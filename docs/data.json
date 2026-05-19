@@ -1,23 +1,29 @@
 {
-  "generated": "18. May 2026, 06:40 UTC",
+  "generated": "19. May 2026, 06:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Ein Pkw ist in einem steirischen Tunnel in Brand geraten und erforderte einen Feuerwehreinsatz, während die Organisatoren des Apfellandtriathlons ihre Veranstaltung mit reduzierten Straßensperrungen neu planen.",
+      "summary": "Der Semmering-Basistunnel tritt in seine finale Bauphase ein, während im steirischen Straßennetz ein Pkw-Brand in einem Tunnel zu einem Einsatz der Rettungskräfte führte. Das Apfellandtriathlon-Event wird künftig mit reduzierten Straßensperrungen durchgeführt.",
       "items": [
         {
-          "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uNExfN3RJUGxXVzYza3c1NE9ZNUpucXlOeWdUeE9VZlZzQVFldTBVckxrZmlBWFV2SC1WeEthY2w4UE54bDgwWnVDYnlyQ3Vua3dBUg?oc=5",
+          "title": "Semmering-Basistunnel: Start für finale Bauphase - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CaE9EM21BQ1pEMVdmRHpramMwOGRXVVBWYkVRZHN6NzBsLV9uVFBVdUJ4cGhObzh1VFpIZTFqWWU5ZWdEVFozR1VWcHJycUUyNUROaQ?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
+          "date": "19. May 2026"
         },
         {
           "title": "Einsatz in Steiermark - Feuer im Tunnel: Pkw stand in Flammen - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWWVRENmVBZEJWTnRTQ0dZR09yYl9LVTJQR0cwcEhhRGN5eUQ1RGpJMWNxSm9zRjA1OHFRQVVITVRBUQ?oc=5",
           "source": "Kronen Zeitung",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Auto ging in Tunnel in Flammen auf - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uNExfN3RJUGxXVzYza3c1NE9ZNUpucXlOeWdUeE9VZlZzQVFldTBVckxrZmlBWFV2SC1WeEthY2w4UE54bDgwWnVDYnlyQ3Vua3dBUg?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "12. May 2026"
         },
         {
@@ -32,19 +38,19 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner und stärkt damit die Mobilität in der Region. Parallel dazu setzt Graz mit einer neuen Verkehrssicherheitskampagne Akzente auf sichere Mobilität im öffentlichen Raum.",
+      "summary": "Der Verkehrsverbund Steiermark erweitert sich durch die Westbahn als neuen Partner und stärkt damit das regionale Verkehrsnetz. Mit dem neuen Öffi-Tourenbuch wird das Angebot für Fahrgäste um attraktive Informationen zu Ausflügen mit öffentlichen Verkehrsmitteln ergänzt.",
       "items": [
-        {
-          "title": "Neue Verkehrssicherheitskampagne in Graz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RHctdVZ3dE5LT0tjQlBSODl2NUVjdktqYkFXOHd6aC1HWkZhczBMNFdaMENJVWZZM19ERzRBR1AxaTcyUnRjSVpqNmRGcjZsS0o4dA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. May 2026"
-        },
         {
           "title": "VERKEHRSVERBUND STEIERMARK WÄCHST: WESTBAHN WIRD NEUER PARTNER – LBN Online - Liezener Bezirksnachrichten",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3pxYnNXOXNUbzBESFpZR1RESkxPN2V0dHVNUmJxWDhaV1ZoOFRsUXVqVWQxdVJXRGtpMUFKTnlRZkNjd3AweFJUbVgzbHNCbjlWUmcxa0diY09uZnRhTnVKY0RUaTI4OExGQVcwckE0VDA0cTIxTXk5SWNVTVNhWHZsR2RUeGRZRF85d19ITEVkWkdDSkJ1aHVYRVpCd1BMQ3N1cnlzOHZwYkpRUm5zV041OHhWM19LbEtpS2dPcFRQdw?oc=5",
           "source": "Liezener Bezirksnachrichten",
           "date": "15. May 2026"
+        },
+        {
+          "title": "Neues Öffi-Tourenbuch - gkb.at",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHJDTlh2d0hFZXlfc0RzNGN6R2o3dmtsX21URUpfa3FVNy00ek1XTlpZeG5DalZQeG1VUEpDNVBqZG9XWFdJYlgxVGYwTnZmTlNxVVpFQzZ4aVlQRE1Pc0RYLUJDQWhpYm4ySVZmbjU3OFZzSnNnTjV5TjJGZDJOTm1NT1lGeWdUUmxHc0ZsWQ?oc=5",
+          "source": "gkb.at",
+          "date": "18. May 2026"
         }
       ]
     },
@@ -52,13 +58,25 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Die Steiermark stockt beim Ausbau ihrer Radweginfrastruktur, obwohl diese für eine nachhaltige Mobilität essentiell wäre. Damit bleiben Chancen für verbesserte Verkehrssicherheit und die Förderung des Fußverkehrs sowie des Radverkehrs als umweltfreundliche Alternativen zum Auto ungenutzt.",
+      "summary": "Der Radwegeausbau in der Steiermark stagniert trotz erkannter Notwendigkeit, während einzelne Schulen und Projekte durch innovative Ansätze zur Verkehrssicherheit und kinderfreundlichen Straßengestaltung Vorbildfunktion übernehmen. Die Mobilitätswende wird somit eher durch lokale Initiativen vorangetrieben als durch übergeordnete Verkehrsplanung.",
       "items": [
         {
           "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtpVkxxUTRIUzg3amhlUnBGWjJHb3JwWHlwdFJOOU9oRzlJUWpIUDc0ZzVLTlA0c1dkRWE4bEc2OGpSRmN6VmtqUjlSbk9hNlN5OUI4ZGg0SW9hNzNiWUdvWlNRWVNTUUtoT3RzRnlodjIzOG9ETlRQZGVndDZTbXQxRlkwUFluTUhETzl1M3NTdWRscGpGWTJGQ1pMaHo2c1RF?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. May 2026"
+        },
+        {
+          "title": "Hauptpreis für MS Pischelsdorf: Sieger-Schule für bunte Straße und Verkehrssicherheit - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXNFZklsY0YtTi1MSUNVenV0Um5jOXRyTVJ4ZE93UTNpQ1ViY1dyY0hrYVhob1I3dW9qc2s0cmJoNU5xQ3o1YXJNbXlKN3JoN0V0M0hZSG10TTBSVHhpMl9HZmVwY2pqU0xkUDBjWk5RSzVxTUp4RndDd0dmcy14alYzNzM4d2x1WlBwbUdDYTBLNHlvc1hQeDVJTG9tRnJRNzNLWngtUmw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. May 2026"
+        },
+        {
+          "title": "Helmut List gibt AVL-Geschäftsführung ab - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRlBCcVMtcGxES1VqMG9yR0cyNzZhRVJESGY1bGZUUzVKZDVlOGk2TFVsX0JOTzdxZXNuMXpuQTZOOXVRZ2lsZXZlRzBWUFoxX3Ftdw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. May 2026"
         }
       ]
     },
@@ -66,7 +84,7 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Ein Arbeiter ist nach einer Gasexplosion an einem Hochbauprojekt in der Steiermark verstorben und wurde ins Krankenhaus eingeliefert. Das Unglück unterstreicht die Bedeutung strenger Sicherheitsmaßnahmen auf Baustellen und bei der Arbeit mit gefährlichen Materialien.",
+      "summary": "Ein Arbeiter ist nach einer Gasexplosion auf einer Baustelle in der Steiermark verstorben und zuvor ins Krankenhaus eingeliefert worden. Der Vorfall unterstreicht die kritische Bedeutung von Sicherheitsstandards auf Hochbauprojekten in der Region.",
       "items": [
         {
           "title": "Nach Gasexplosion: Arbeiter im Krankenhaus gestorben - steiermark.ORF.at",
