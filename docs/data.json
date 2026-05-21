@@ -1,18 +1,18 @@
 {
-  "generated": "20. May 2026, 06:35 UTC",
+  "generated": "21. May 2026, 06:38 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der Semmering-Basistunnel befindet sich in seiner finalen Bauphase und macht damit bedeutende Fortschritte beim wichtigsten Infrastrukturprojekt der Region. Gleichzeitig wird bei der Planung von Großveranstaltungen wie dem Apfellandtriathlon verstärkt auf eine Minimierung von Straßensperrungen geachtet, um die Verkehrsbeeinträchtigung für die Bevölkerung zu reduzieren.",
+      "summary": "Der Semmering-Basistunnel befindet sich in seiner finalen Bauphase und macht damit bedeutende Fortschritte bei diesem wichtigen Infrastrukturprojekt der Steiermark. Parallel dazu werden bei lokalen Veranstaltungen wie dem Apfellandtriathlon die Straßensperrungen minimiert, um die Verkehrsbeeinträchtigungen für die Bevölkerung zu reduzieren.",
       "items": [
         {
           "title": "Semmering-Basistunnel: Start für letzte Bauphase - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CaE9EM21BQ1pEMVdmRHpramMwOGRXVVBWYkVRZHN6NzBsLV9uVFBVdUJ4cGhObzh1VFpIZTFqWWU5ZWdEVFozR1VWcHJycUUyNUROaQ?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "19. May 2026"
+          "date": "20. May 2026"
         },
         {
           "title": "Semmering-Basistunnel: Exklusive Durchfahrt – so geht es im Tunnel jetzt voran - MeinBezirk.at",
@@ -32,8 +32,14 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Der Verkehrsverbund Steiermark erweitert sein Netzwerk durch die Westbahn als neuen Partner. Diese Erweiterung stärkt die Vernetzung und das Angebot des öffentlichen Verkehrs in der Region.",
+      "summary": "Die Pendlerinitiative Steiermark übt Kritik am Masterplan Öffentlicher Verkehr Graz 2040, da Pendler und Umlandgemeinden in dem Konzept nicht ausreichend berücksichtigt werden. Der Verkehrsverbund Steiermark erweitert sich durch die Westbahn als neuen Partner und stärkt damit sein Netzwerk.",
       "items": [
+        {
+          "title": "Pendlerinitiative Steiermark kritisiert Masterplan Öffentlicher Verkehr – Graz 2040: „Pendler und Umland kommen im Konzept nicht vor“ - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOblo0eTd4NEp0Zkd0Ql9WOUxYMzRkODEwTUdwWlVDd0NKdTNidmlWZjd6RDBSc3V6S0tTRTFHNjNxZ1AxSnJJdmxyNUc1Rk0tTU41eDVxNlR6TXRxLWdMcExNMnRNUEVQN0RHQ2NSYXNSU2dVWFlvRml0WHJESHV4T1U2QVNWRlRDYXg1QUx6LVBLMkJDTkI2WHZJYVJ4aDVQUXlLczNZSGZNdjh0elE0UHZvWFU3Z0NYYTVmM2hhYXN4ZWthMFZacWMtREVSd2thandxX2M3bUE2NjlxZ1ExYzBpTGFmT09RZFZyU0RYSnlpLXp4QVVwXzdta0NUX3Y0RTUyU1NEd3k3MmFneGtSeDJ3cjA?oc=5",
+          "source": "OTS.at",
+          "date": "20. May 2026"
+        },
         {
           "title": "VERKEHRSVERBUND STEIERMARK WÄCHST: WESTBAHN WIRD NEUER PARTNER – LBN Online - Liezener Bezirksnachrichten",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3pxYnNXOXNUbzBESFpZR1RESkxPN2V0dHVNUmJxWDhaV1ZoOFRsUXVqVWQxdVJXRGtpMUFKTnlRZkNjd3AweFJUbVgzbHNCbjlWUmcxa0diY09uZnRhTnVKY0RUaTI4OExGQVcwckE0VDA0cTIxTXk5SWNVTVNhWHZsR2RUeGRZRF85d19ITEVkWkdDSkJ1aHVYRVpCd1BMQ3N1cnlzOHZwYkpRUm5zV041OHhWM19LbEtpS2dPcFRQdw?oc=5",
@@ -46,14 +52,8 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "Der Radwegeausbau in der Steiermark stagniert trotz erkannter Notwendigkeit, während einzelne Schulen wie die MS Pischelsdorf mit innovativen Projekten zu bunten, sicheren Straßen und verbesserter Verkehrssicherheit vorangehen. Die Mobilitätswende wird somit eher durch lokale Initiativen vorangetrieben, während strukturelle Infrastrukturprojekte auf regionaler Ebene nur schleppend vorankommen.",
+      "summary": "Die MS Pischelsdorf wurde für ihr Engagement in Verkehrssicherheit und die Gestaltung einer bunten, kinderfreundlichen Straße ausgezeichnet. Helmut List tritt als AVL-Geschäftsführer ab, wobei AVL als führendes Mobilitäts- und Technologieunternehmen eine wichtige Rolle in der Entwicklung nachhaltiger Verkehrslösungen spielt.",
       "items": [
-        {
-          "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtpVkxxUTRIUzg3amhlUnBGWjJHb3JwWHlwdFJOOU9oRzlJUWpIUDc0ZzVLTlA0c1dkRWE4bEc2OGpSRmN6VmtqUjlSbk9hNlN5OUI4ZGg0SW9hNzNiWUdvWlNRWVNTUUtoT3RzRnlodjIzOG9ETlRQZGVndDZTbXQxRlkwUFluTUhETzl1M3NTdWRscGpGWTJGQ1pMaHo2c1RF?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "14. May 2026"
-        },
         {
           "title": "Hauptpreis für MS Pischelsdorf: Sieger-Schule für bunte Straße und Verkehrssicherheit - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXNFZklsY0YtTi1MSUNVenV0Um5jOXRyTVJ4ZE93UTNpQ1ViY1dyY0hrYVhob1I3dW9qc2s0cmJoNU5xQ3o1YXJNbXlKN3JoN0V0M0hZSG10TTBSVHhpMl9HZmVwY2pqU0xkUDBjWk5RSzVxTUp4RndDd0dmcy14alYzNzM4d2x1WlBwbUdDYTBLNHlvc1hQeDVJTG9tRnJRNzNLWngtUmw?oc=5",
