@@ -1,24 +1,18 @@
 {
-  "generated": "27. May 2026, 06:48 UTC",
+  "generated": "28. May 2026, 06:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "strasseninfrastruktur": {
       "label": "Straßeninfrastruktur",
       "icon": "🛣️",
       "color": "#1a5c38",
-      "summary": "Der geplante S-Bahn-Tunnel in der Steiermark befindet sich weiterhin in der Planungsphase mit offenen Fragen zu seiner Umsetzung. Die Rathausbrücke in Stainz wird von Juni bis September saniert, was eine teilweise Sperrung der Grazer Straße zur Folge hat.",
+      "summary": "Der geplante S-Bahn-Tunnel in der Steiermark befindet sich in einem unklaren Status, wobei offene Fragen zur Umsetzung und zum Zeitrahmen bestehen. Das Projekt zeigt die Herausforderungen bei der Realisierung großer Infrastrukturvorhaben in der Region.",
       "items": [
         {
           "title": "Zehn Fragen: Was wurde eigentlich aus dem S-Bahn-Tunnel? - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1g1WFdUenMwQ29EbWpGUTd5ODh0cnVrVDdiYlBqUE9DdGZSdkV6aDlLSkZDM1FMNWdENkxvOGVoYlJzLWcySmxvWnUwMWZoTTlZYzRYa1kzSGd2U29seV9ZcTJtb3J2Szl3UGtrS282cWN5bXB1Q2V4YkxrSDJxWlN3REJUUDhYdkNGRzg5dFl1dw?oc=5",
           "source": "Kleine Zeitung",
           "date": "26. May 2026"
-        },
-        {
-          "title": "Teilweise Sperre der Grazer Straße: 8. Juni bis 30. September: Sanierung der Rathausbrücke in Stainz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pJaFhIaHlpSDh6SWNaTFJVQ0pfV2VCUS1iMXgzbG9Rd3ZRTVBwOHc4R01CMG5tTm9OQVRPMnpOZXhjVjlQNnROMjRWX213VENPZk9SazlsNzJRUVBuMFBWMmkzOEdjN0l2V3NvaHg4RUs2Q0hRQUVOdFUxaHU1OEF3QXR6NlBiZGE4TWtGbFJpMmRlaExCRGhUWHJPMFJNNzlZQXhrNjhBMVBzWnp0ODU0U29qQXhnYTM3UjhYeTFNdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "22. May 2026"
         }
       ]
     },
@@ -26,19 +20,13 @@
       "label": "Öffentlicher Verkehr",
       "icon": "🚌",
       "color": "#c8102e",
-      "summary": "Die Grazer Straßenbahn wird mit modernen Ladestationen und komfortablen Ledersitzen ausgestattet, während die Pendlerinitiative Steiermark den Masterplan Öffentlicher Verkehr 2040 kritisiert, da dieser die Bedürfnisse von Pendlern und Umlandgemeinden vernachlässigt.",
+      "summary": "Die Grazer Verkehrsbetriebe haben ihre erste moderne Flexity-Straßenbahn in Betrieb genommen, die mit verbesserter Kapazität und Komfort die Stadtbahn ergänzt. Diese Neuanschaffung ist Teil der Modernisierungsstrategie des öffentlichen Nahverkehrs in Graz.",
       "items": [
         {
-          "title": "Neue „Bim“ bringt Ladestationen und Ledersitze - steiermark.ORF.at",
+          "title": "Premierenfahrt für erste Grazer Flexity-Straßenbahn - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1abXBTVlZxRE1mT0VoNmJWN3RBQ0x6dldSTnd3cGt6eVBjSXZma0hNMzFlTTZPYlVIZ190NHBDcE5Ca2dEZUVOTlBGUG5zVEhxNkFGcg?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "26. May 2026"
-        },
-        {
-          "title": "Pendlerinitiative Steiermark kritisiert Masterplan Öffentlicher Verkehr – Graz 2040: „Pendler und Umland kommen im Konzept nicht vor“ - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOblo0eTd4NEp0Zkd0Ql9WOUxYMzRkODEwTUdwWlVDd0NKdTNidmlWZjd6RDBSc3V6S0tTRTFHNjNxZ1AxSnJJdmxyNUc1Rk0tTU41eDVxNlR6TXRxLWdMcExNMnRNUEVQN0RHQ2NSYXNSU2dVWFlvRml0WHJESHV4T1U2QVNWRlRDYXg1QUx6LVBLMkJDTkI2WHZJYVJ4aDVQUXlLczNZSGZNdjh0elE0UHZvWFU3Z0NYYTVmM2hhYXN4ZWthMFZacWMtREVSd2thandxX2M3bUE2NjlxZ1ExYzBpTGFmT09RZFZyU0RYSnlpLXp4QVVwXzdta0NUX3Y0RTUyU1NEd3k3MmFneGtSeDJ3cjA?oc=5",
-          "source": "OTS.at",
-          "date": "20. May 2026"
+          "date": "27. May 2026"
         }
       ]
     },
@@ -46,12 +34,18 @@
       "label": "Mobilität & Verkehrssicherheit",
       "icon": "🚲",
       "color": "#003399",
-      "summary": "E-Scooter werden in der Steiermark zunehmend zur Gefahr für Kinder im Straßenverkehr, weshalb dringend Maßnahmen zur Verkehrssicherheit erforderlich sind. Die steigende Zahl von Unfällen mit diesen Fahrzeugen zeigt, dass eine bessere Regulierung und Aufklärung notwendig ist, um besonders junge Verkehrsteilnehmer zu schützen.",
+      "summary": "Die Steiermark muss dringend die Verkehrssicherheit für Kinder im Umgang mit E-Scootern verbessern, da die Unfallzahlen steigen. Gleichzeitig wird mit einer neuen Mobilitätsplattform ab Herbst 2027 ein wichtiger Schritt zur Förderung nachhaltiger Mobilität in der Oststeiermark unternommen.",
       "items": [
         {
           "title": "Handlungsbedarf bei E-Scootern: Immer mehr Kinder verunglücken im steirischen Straßenverkehr - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmVxNnZGLXRaY2hjczZRZW1nZDhMTlVrdW9NX0U1OWhIdmZzdG1BZFJ4ckVQS1ZjUlA4SUVCRHZTUXJJWkJGRDhUMVI4ZHRTUXptLUlVR2YtSnBWcHM3UFNLOGlXMExzUUJzWGp2QzJwcGRkd3BkQ0dGUkNOT2ZLWlJmN2Qzcm0zVmVGVTFtQ3ZVZHk2V1pON055YUEzMHJETUd1djBLVkxwV0VDZ3N4WURSZlh1MndKUGdqZmgwQm5hTjBYdDVJWA?oc=5",
           "source": "MeinBezirk.at",
+          "date": "26. May 2026"
+        },
+        {
+          "title": "Start im Herbst 2027: Eine neue Mobilitätsplattform für die Oststeiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUktenFxQmtFTEdXUEZ0TW5scTctQTg2NDhDVmVLVjdvUVpRWk8yT0FsaWNsTDBBNlJNbmt1MDl2cTNXaFByd0xEdGR6a3puUm9ZVEZ4eWltTHkxbVFXdzBsUV9NYWJxazNERllsYkd3aFg1U1ZXTW9MSGFLTlpyeXBBaXowb0RNS2JPaG1ydVhVWWVLTVVWaklDblBsTUM2?oc=5",
+          "source": "Kleine Zeitung",
           "date": "26. May 2026"
         }
       ]
@@ -60,13 +54,13 @@
       "label": "Landeshochbau & Baukultur",
       "icon": "🏛️",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark setzt sich aktiv für verbesserte Infrastrukturanbindungen ein und unterstützt regionale Entwicklungsprojekte. Die Südweststeiermark orientiert sich dabei zukunftsorientiert an nachhaltigen Baukonzepten und Planungsstrategien.",
+      "summary": "Die Steiermark setzt auf eine zukunftsorientierte Baukulturreise 2026, die Wirtschaft, demografischen Wandel und intelligente Ressourcennutzung verbindet und dabei bestehende Strukturen optimal nutzt. Die Südweststeiermark positioniert sich dabei als Vorreiter für nachhaltiges Bauen und regionale Zukunftsplanung.",
       "items": [
         {
-          "title": "Land macht sich für Autobahnanschluss stark - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOG9hcTNlN2JpallhdFdsbmdoUHg5WDVNMHlpbUwyaGw5eXdLd1FXTjZKUjdEXy1ndFJQWWZBYUYxOFFEVVRnaHY3VEZYdWhEZ3A0cg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. May 2026"
+          "title": "Wirtschaft, Altern & „Nutzen, was da ist!“ – Baukulturreise 2026 - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWNveHo2b0pzWGgyeUo4RGIwdDI0MEJpUnJzQWJaVTU0N0xUVlBwZWQ4VldKVDZ5Z0gzNEVjcjRSTEtzZjh6S0J3SjVCNllkblIxNVFia2FUTEJqVFZrRVBsa3hGaWRKSks3VHdvbXpWdHJ0NzJTZkRScEROTDhienhGZFZKWFA5eUdrbjN5ZVJDMHRNU0E?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "27. May 2026"
         },
         {
           "title": "Südweststeiermark: So plant die Region für die Zukunft – Blick auf nachhaltiges Bauen - MeinBezirk.at",
@@ -80,7 +74,7 @@
       "label": "Verkehrsbehörde & UVP",
       "icon": "⚖️",
       "color": "#7b4f12",
-      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach festgelegten Kriterien einer behördlichen Abnahme unterzogen, wobei die Verkehrsbehörde sechs wesentliche Fakten zu diesem Verwaltungsverfahren dokumentiert hat. Dieses Verfahren dient der Sicherstellung der Verkehrstauglichkeit und der Durchsetzung von Geschwindigkeitsverstößen im steirischen Straßenverkehr.",
+      "summary": "In der Steiermark werden Fahrzeuge von Rasern nach einem standardisierten Verfahren durch die Behörden abgenommen, wobei sechs wesentliche Fakten diesen Prozess regeln. Das Abnahmeverfahren dient der Verkehrssicherheit und ist ein wichtiges Sanktionsinstrument gegen wiederholte Geschwindigkeitsübertretungen.",
       "items": [
         {
           "title": "In der Steiermark - 6 Fakten zur Abnahme von Raser-Fahrzeugen - Kronen Zeitung",
